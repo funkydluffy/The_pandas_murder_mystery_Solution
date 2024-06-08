@@ -3,7 +3,7 @@
 <img src="./_src/AOAExcuseMeGroup1.png"  height=300>
 </p>
 
-## ¡Pandas City te está nesecitando! <img src="./_src/CARMEN12.jpg"  height=100>
+## ¡Pandas City te está nesecitando! <img src="./_src/CARMEN12.jpg"  height=200>
 
 Si te gusta develar historias de detectives y policiales vas a disfrutar mucho el echar un ojo en este repositorio!
 En el mismo se plantea la solución al entretenido desafio planteado por https://github.com/facu-corvalan quién diseñó un juego para impulsar tu conocimiento sobre el mundo de los datos y desempeño en Pandas.
