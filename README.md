@@ -3,6 +3,21 @@
 <img src="./_src/AOAExcuseMeGroup1.png"  height=300>
 </p>
 
+## <p align="center"> Pandas City needs you! <img src="./_src/CARMEN12.jpg"  height=100> </p>
+
+If you enjoy unraveling detective and crime stories, you will love taking a look at this repository!
+It presents the solution to the entertaining challenge designed by https://github.com/facu-corvalan, who created a game to enhance your knowledge about the world of data and performance in Pandas.
+Inspired by a game originally designed for SQL, we are presented with not one, but two difficulty levels to solve the mystery of a murder in the fictional city of Pandas City, placing you in the role of a detective where you must follow the clues and use your knowledge of tables, masks, and searches with dataframes.
+
+In this repository, I add one of the solutions so that once you complete the beginner level, you can compare your path to the solution with mine.
+
+## Credits
+
+The original files and the original game can be found in the repository of [Facundo Corvalán](https://github.com/facu-corvalan).
+This project is based on the popular [The SQL Murder Mystery](https://mystery.knightlab.com/) and adapted for learning Pandas.
+
+---
+
 ## <p align="center"> ¡Pandas City te está nesecitando! <img src="./_src/CARMEN12.jpg"  height=100> </p>
 
 Si te gusta develar historias de detectives y policiales vas a disfrutar mucho el echar un ojo en este repositorio!
